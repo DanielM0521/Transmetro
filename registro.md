@@ -1,1 +1,1 @@
-### Módulo de Registro de Usuarios
+### Módulo de Consulta de Rutas y Horarios
