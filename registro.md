@@ -1,1 +1,1 @@
-### Módulo de Registro de Usuarios
+### Seccion de Registro de Usuarios y consulta
